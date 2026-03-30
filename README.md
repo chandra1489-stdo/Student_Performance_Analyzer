@@ -26,3 +26,6 @@ To provide an interactive system for analyzing student performance efficiently.
 
 ## 👨‍💻 Author
 Chandra Shekar Behara
+
+## 📸 Application Preview
+![App Screenshot](screenshot.png)
